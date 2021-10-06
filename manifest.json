@@ -33,7 +33,4 @@
       "purpose": "maskable"
     }
   ],
-  "serviceworker": {
-    "src": "/serviceworker.js"
   }
-}
