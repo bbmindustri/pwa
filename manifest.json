@@ -1,6 +1,6 @@
 {
   "name": "bbmindustri.com",
-  "short_name": "bbmindustri.com",
+  "short_name": "BBM Industri",
   "display": "standalone",
   "prefer_related_applications": false,
   "start_url": "https://www.bbmindustri.com/",
