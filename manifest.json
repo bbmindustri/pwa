@@ -19,6 +19,18 @@
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgp_F9FCIwdquza9REYbm3LbypMjB51M6l2uwM419IZ0sxcNUV5hw0sZq9K-dJV6rRPm68vXHtCIx-N1d3bO0MRdLQ5ZfFQyiEHDRJ8aB--FeltWO4elgb63uC0L4oWEsLhumNSbws6W9p3mAlW_8-JcQEBYN3LLessrC4bQY3YVW2J-XzFZXtvXY7AVw",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgp_F9FCIwdquza9REYbm3LbypMjB51M6l2uwM419IZ0sxcNUV5hw0sZq9K-dJV6rRPm68vXHtCIx-N1d3bO0MRdLQ5ZfFQyiEHDRJ8aB--FeltWO4elgb63uC0L4oWEsLhumNSbws6W9p3mAlW_8-JcQEBYN3LLessrC4bQY3YVW2J-XzFZXtvXY7AVw",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
     ]
   }
